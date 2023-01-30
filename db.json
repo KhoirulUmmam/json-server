@@ -1,5 +1,4 @@
-{
-    "steaks": [
+[
     {
         "id" : 0,
         "name" : "Sirloin",
@@ -16,5 +15,3 @@
         "description" : "Daging Tomahawk adalah potongan ribeye daging sapi yang memiliki tulang rusuk yg diambil dari bagian Rib-tulang di atas, dipotong dari tulang rusuk depan dengan tulang rusuknya yang tersisa."
     }
 ]
-
-}
